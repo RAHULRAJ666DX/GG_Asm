@@ -1,1 +1,1 @@
-# GG_asm
+# Analytics Resource Assignment
